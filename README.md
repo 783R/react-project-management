@@ -1,6 +1,4 @@
-# Project Name
-
-Project Management App
+# Project-Management-App
 
 ## Introduction
 
