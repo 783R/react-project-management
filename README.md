@@ -40,5 +40,5 @@ Project managements app - Keep track of the projects you're working on with deta
 
 4. Start the development server.
    ```bash
-   npm start
+   npm run dev
    ```
