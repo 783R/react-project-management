@@ -23,13 +23,13 @@ Project managements app - Keep track of the projects you're working on with deta
 1. Clone the repository.
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/783R/react-project-management.git
    ```
 
 2. Navigate to the project directory.
 
    ```bash
-   cd your-project
+   cd react-project-management
    ```
 
 3. Install dependencies.
